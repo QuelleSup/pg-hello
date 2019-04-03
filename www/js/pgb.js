@@ -20,6 +20,6 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
-function helloWorld() {
-	navigator.notification.alert("Hello World");
+function businessCard() {
+	window.open('/businessCard.html');
 }
